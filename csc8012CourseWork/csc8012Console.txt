@@ -1,0 +1,498 @@
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully checked out.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully checked out.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully checked out.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+Sorry, this book is currently being loaned by Troy Bolton. A message will be sent to Troy Bolton telling them to return the book.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Concerning Hobbits, By: Frodo Baggins
+This book is currently not being rented.
+
+Concerning Hobbits, By: Bilbo Baggins
+This book is currently not being rented.
+
+Egghead, By: Bo Burnham
+Currently rented by: Troy Bolton
+
+The Bible, By: Jesus Christ
+Currently rented by: Troy Bolton
+
+Alone On Wall, By: Alex J. Honnold
+Currently rented by: Troy Bolton
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Name: Troy Bolton
+Books Checked Out: 3
+
+Name: Ryan Evans
+Books Checked Out: 0
+
+Name: Sharpay Evans
+Books Checked Out: 0
+
+Name: Gabriella Montez
+Books Checked Out: 0
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+Sorry, Troy Bolton has 3 books checked out. They must return a book before they can check out another book.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Concerning Hobbits, By: Frodo Baggins
+This book is currently not being rented.
+
+Concerning Hobbits, By: Bilbo Baggins
+This book is currently not being rented.
+
+Egghead, By: Bo Burnham
+Currently rented by: Troy Bolton
+
+The Bible, By: Jesus Christ
+Currently rented by: Troy Bolton
+
+Alone On Wall, By: Alex J. Honnold
+Currently rented by: Troy Bolton
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Name: Troy Bolton
+Books Checked Out: 3
+
+Name: Ryan Evans
+Books Checked Out: 0
+
+Name: Sharpay Evans
+Books Checked Out: 0
+
+Name: Gabriella Montez
+Books Checked Out: 0
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully returned
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully checked out.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Concerning Hobbits, By: Frodo Baggins
+This book is currently not being rented.
+
+Concerning Hobbits, By: Bilbo Baggins
+This book is currently not being rented.
+
+Egghead, By: Bo Burnham
+Currently rented by: Troy Bolton
+
+The Bible, By: Jesus Christ
+Currently rented by: Troy Bolton
+
+Alone On Wall, By: Alex J. Honnold
+Currently rented by: Sharpay Evans
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Name: Troy Bolton
+Books Checked Out: 2
+
+Name: Ryan Evans
+Books Checked Out: 0
+
+Name: Sharpay Evans
+Books Checked Out: 1
+
+Name: Gabriella Montez
+Books Checked Out: 0
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+Sorry, that is not a user in our Library
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully returned
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully checked out.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully returned
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Concerning Hobbits, By: Frodo Baggins
+This book is currently not being rented.
+
+Concerning Hobbits, By: Bilbo Baggins
+This book is currently not being rented.
+
+Egghead, By: Bo Burnham
+Currently rented by: Troy Bolton
+
+The Bible, By: Jesus Christ
+Currently rented by: Troy Bolton
+
+Alone On Wall, By: Alex J. Honnold
+This book is currently not being rented.
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Name: Troy Bolton
+Books Checked Out: 2
+
+Name: Ryan Evans
+Books Checked Out: 0
+
+Name: Sharpay Evans
+Books Checked Out: 0
+
+Name: Gabriella Montez
+Books Checked Out: 0
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully checked out.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+The book has been successfully checked out.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Concerning Hobbits, By: Frodo Baggins
+Currently rented by: Troy Bolton
+
+Concerning Hobbits, By: Bilbo Baggins
+This book is currently not being rented.
+
+Egghead, By: Bo Burnham
+Currently rented by: Troy Bolton
+
+The Bible, By: Jesus Christ
+Currently rented by: Troy Bolton
+
+Alone On Wall, By: Alex J. Honnold
+Currently rented by: Sharpay Evans
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Name: Troy Bolton
+Books Checked Out: 3
+
+Name: Ryan Evans
+Books Checked Out: 0
+
+Name: Sharpay Evans
+Books Checked Out: 1
+
+Name: Gabriella Montez
+Books Checked Out: 0
+
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+What is the user's name?
+- Must at least enter the user's first initial and last name.
+- You can include a max of three names for the user (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+What is the name of the book?
+- Who is the book's author?
+- Must at least enter the author's first initial and last name.
+- You can include a max of three names for the author (first, middle, and last)
+- If an initial is used it must be followed by a period
+- The name must be entered exactly the same as it saved in our system, although capitalization does not matter. 
+Sorry, this book is currently being loaned by Sharpay Evans. A message will be sent to Sharpay Evans telling them to return the book.
+--------------------------------------------------------------------------------
+MENU
+f -to finish running the program.
+b -to display on the screen the information about all the books in the library.
+u -to display on the screen the information about all the users.
+i -to update the stored data when a book is issued to a user.
+r -to update the stored data when a user returns a book to the library.
+--------------------------------------------------------------------------------
+Goodbye!
